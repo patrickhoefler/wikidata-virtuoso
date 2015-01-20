@@ -1,0 +1,7 @@
+.git
+cache
+output
+virtuoso
+
+*.pyc
+setup.sh
