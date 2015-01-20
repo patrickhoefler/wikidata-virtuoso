@@ -21,7 +21,7 @@ cd wikidata-virtuoso
 ```
 
 After this, no manual intervention is necessary.
-However, please be patient since downloading, processing, and importing of the data will take a few hours.
+However, please be patient since downloading, processing, and importing the data will take a few hours.
 The setup script will keep you informed throughout the setup.
 
 ## License
