@@ -5,7 +5,7 @@ import wikidata
 
 
 # The data (= ID) of the Wikidata dump
-dump_id = '20150105'
+dump_id = '20150126'
 
 # The files to download
 download_urls = [
